@@ -35,7 +35,7 @@ public class ClienteService {
         status.setStatus("El cliente acepta el cobro...");
         orden.setStatus(status);
         
-        VendedorService.entregar(orden);
+        VendedorService.pagar(orden);
         
         
         

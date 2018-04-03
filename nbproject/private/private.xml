@@ -4,8 +4,10 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/Users/alejandro/NetBeansProjects/CupCakeShop/src/cupcakeshop/service/VendedorService.java</file>
+            <file>file:/Users/alejandro/NetBeansProjects/CupCakeShop/src/cupcakeshop/data/CupCakeShop.java</file>
             <file>file:/Users/alejandro/NetBeansProjects/CupCakeShop/src/cupcakeshop/service/CocinaService.java</file>
             <file>file:/Users/alejandro/NetBeansProjects/CupCakeShop/src/cupcakeshop/service/ClienteService.java</file>
+            <file>file:/Users/alejandro/NetBeansProjects/CupCakeShop/src/cupcakeshop/data/OrdenData.java</file>
             <file>file:/Users/alejandro/NetBeansProjects/CupCakeShop/src/cupcakeshop/test/PedirOrdenTest.java</file>
         </group>
     </open-files>
