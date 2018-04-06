@@ -16,8 +16,10 @@ import java.util.List;
  * @author alejandro
  */
 public class PedirOrdenTest {
-    
+    /*
     public static void main(String[] args) {
+        
+        
         
         ClienteData cliente = new ClienteData();
         cliente.setId("PEPE");
@@ -48,6 +50,6 @@ public class PedirOrdenTest {
         
         VendedorService.pedir(orden);
         
-        //CocinaService.pedir(orden);
-    }
+        
+    }*/
 }
